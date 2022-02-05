@@ -3,7 +3,7 @@
 This repository is about Finance Applied in Python with risk management portfolio focus:
 
 - Return Prices
-- -Frontier Efiicent (Markowitz)
+- Frontier Efiicent (Markowitz)
 - VaR and CVaR
 - Volatility analysis
 - Monte Carlo simulations
@@ -17,4 +17,4 @@ The following stocks were extract from NASDAQ website and can be found in datase
 - Tesla (TSLA)
 - Apple (APPL)
 - Alibaba (BABA)
-- Pro Shares Ultra Pro QQQ(TQQQ)
+- Pro Shares Ultra Pro QQQ (TQQQ)
